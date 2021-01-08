@@ -1,0 +1,2 @@
+- pywinrm is needed
+    - was already installed on ubuntu 20.04
