@@ -3,3 +3,5 @@
 https://serverfault.com/questions/166768/kinit-wont-connect-to-a-domain-server-realm-not-local-to-kdc-while-getting-in
 https://docs.ansible.com/ansible/latest/user_guide/intro_inventory.html
 https://docs.ansible.com/ansible/latest/user_guide/windows_winrm.html
+
+https://stackoverflow.com/questions/57036839/ansible-windows-kerberos-authentification-bad-http-response-returned-from-server
