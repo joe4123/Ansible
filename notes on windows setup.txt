@@ -5,3 +5,9 @@ https://docs.ansible.com/ansible/latest/user_guide/intro_inventory.html
 https://docs.ansible.com/ansible/latest/user_guide/windows_winrm.html
 
 https://stackoverflow.com/questions/57036839/ansible-windows-kerberos-authentification-bad-http-response-returned-from-server
+
+- need to make changes to /etc/krb5.conf
+- does your team specify vars in the inventory file or in a separate yaml?
+- how does your team manage passwords?
+    - are you guys using a service account with creds or using key pairs? 
+    - Ansible vault?
