@@ -1,0 +1,5 @@
+---
+  - hosts: ubuntu:ansible
+    tasks:
+    - name: Pinging ubuntu hosts
+      action: ping

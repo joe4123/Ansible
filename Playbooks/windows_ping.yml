@@ -1,0 +1,5 @@
+---
+  - hosts: windows:dc
+    tasks:
+      - name: Ping Windows Servers
+        action: win_ping
